@@ -1,5 +1,5 @@
 # ML-Basics
-##Contents:
+## Contents:
 * Linear-Quadratic-regression:
 	  - implementation of linear and quadratic regression using matrix representation
 	  - comparing the 2 models on small dataset with/without outliers
