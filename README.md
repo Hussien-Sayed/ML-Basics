@@ -9,3 +9,6 @@
 * Gaussian-Mixture:  
 	  - appling Gaussian Mixture over inputs that are consisted of mixed Gaussian distributions  
 	  - comparing different outputs using Silhouette score  
+
+* MNIST_feature_extraction:  
+	  - Extracting features from MNIST dataset using PCA, DCT, Average Pooling and canny edge detection  
