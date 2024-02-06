@@ -5,3 +5,7 @@
 	  - comparing the 2 models on small dataset with/without outliers  
   	  - comparing the models with scikit-learn models  
   	  - 3D plotting of the Data and the models predictions  
+
+* Gaussian-Mixture:  
+	  - appling Gaussian Mixture over inputs that are consisted of mixed Gaussian distributions  
+	  - comparing different outputs using Silhouette score  
